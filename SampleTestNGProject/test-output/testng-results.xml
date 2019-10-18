@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32668" started-at="2019-10-18T08:43:14Z" finished-at="2019-10-18T08:43:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32668" started-at="2019-10-18T08:43:14Z" finished-at="2019-10-18T08:43:47Z">
+      <class name="SamplePackage.ValidatiDropdown">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="launchBrowser" is-config="true" duration-ms="7443" started-at="2019-10-18T08:43:14Z" finished-at="2019-10-18T08:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="HomeTitleVerify()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="HomeTitleVerify" duration-ms="11" started-at="2019-10-18T08:43:22Z" finished-at="2019-10-18T08:43:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomeTitleVerify -->
+        <test-method status="PASS" signature="LoginValidation()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="LoginValidation" duration-ms="3616" started-at="2019-10-18T08:43:22Z" finished-at="2019-10-18T08:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginValidation -->
+        <test-method status="PASS" signature="Menucheck0()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="Menucheck0" duration-ms="53" started-at="2019-10-18T08:43:25Z" finished-at="2019-10-18T08:43:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menucheck0 -->
+        <test-method status="PASS" signature="Menucheck1()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="Menucheck1" duration-ms="1700" started-at="2019-10-18T08:43:25Z" finished-at="2019-10-18T08:43:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menucheck1 -->
+        <test-method status="PASS" signature="Menucheck2()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="Menucheck2" duration-ms="1224" started-at="2019-10-18T08:43:27Z" finished-at="2019-10-18T08:43:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menucheck2 -->
+        <test-method status="PASS" signature="Menucheck3()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="Menucheck3" duration-ms="2349" started-at="2019-10-18T08:43:28Z" finished-at="2019-10-18T08:43:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menucheck3 -->
+        <test-method status="PASS" signature="Menucheck4()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="Menucheck4" duration-ms="1235" started-at="2019-10-18T08:43:31Z" finished-at="2019-10-18T08:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menucheck4 -->
+        <test-method status="PASS" signature="Menucheck5()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="Menucheck5" duration-ms="5346" started-at="2019-10-18T08:43:32Z" finished-at="2019-10-18T08:43:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menucheck5 -->
+        <test-method status="PASS" signature="Menucheck6()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="Menucheck6" duration-ms="79" started-at="2019-10-18T08:43:37Z" finished-at="2019-10-18T08:43:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menucheck6 -->
+        <test-method status="PASS" signature="Menucheck7()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="Menucheck7" duration-ms="2711" started-at="2019-10-18T08:43:37Z" finished-at="2019-10-18T08:43:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menucheck7 -->
+        <test-method status="PASS" signature="Menucheck8()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="Menucheck8" duration-ms="807" started-at="2019-10-18T08:43:40Z" finished-at="2019-10-18T08:43:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Menucheck8 -->
+        <test-method status="PASS" signature="ValidateDropdown0()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="ValidateDropdown0" duration-ms="6010" started-at="2019-10-18T08:43:41Z" finished-at="2019-10-18T08:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateDropdown0 -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:SamplePackage.ValidatiDropdown@57e1b0c]" name="terminateBrowser" is-config="true" duration-ms="63" started-at="2019-10-18T08:43:47Z" finished-at="2019-10-18T08:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- SamplePackage.ValidatiDropdown -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
